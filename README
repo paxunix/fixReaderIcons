@@ -1,0 +1,23 @@
+TL;DR:  In Google Reader, move the link icons on the right next to their
+stars on the left.
+
+I have a couple of reading modes in Google Reader.
+
+Commuting to/from work and reading on my phone, I'll usually not expand any
+posts and simply mark with a star which ones I'd like to read later.  After
+that, I simply mark-as-read everything in that feed so I know what's new
+when I return.
+
+Later on when I'm at a larger screen I'll view my "Starred items".  Now, I
+open each of the items in its own tab and remove the star to indicate that
+I've read the item.
+
+However, I find it tedious to have to either open the item, then click on
+the title to open a new tab for it, OR move my mouse aaaaaaallllllll the way
+over to the right to click the icon to open the item in a new tab.  If I'm
+on a widescreen monitor, the item title and the open-icon are very far apart
+and it's not always obvious at a quick glance which item's icon you are
+clicking on.  Putting them next to each other means a lot less movement.
+
+Caveat emptor:  whenever Google Reader is updated, be prepared for this
+script to stop working.
