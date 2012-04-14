@@ -15,6 +15,18 @@
 // dynamically added to the page.
 
 var el = document.createElement("style");
+
 el.type = "text/css";
-el.textContent = "a.entry-original { left: 22px !important; } h2.entry-title { padding-left: 15px !important; }";
+
+// For the non-"starred items" view
+el.textContent = "" +
+    // move opener link
+    "a.entry-original { left: 22px !important; } " +
+
+    // make room on left of title
+    "h2.entry-title { padding-left: 20px !important; } " +
+
+    // on the "starred items" view, make room on the left of the entry source
+    "span.entry-source-title { padding-left: 20px !important; } ";
+
 document.getElementsByTagName('head')[0].appendChild(el);
