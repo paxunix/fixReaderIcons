@@ -3,7 +3,7 @@
 // @namespace       halpenny
 // @description     On a wide screen, the open icon is way too far away from the star and the item title.  This script moves that open icon next to the star.
 // @include         http*://www.google.com/reader/view/*
-// @version         0.1
+// @version         1.0.0
 // ==/UserScript==
 
 
